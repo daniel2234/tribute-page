@@ -1,0 +1,47 @@
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+li {
+  margin:e 16px 0;
+}
+
+
+#main {
+  background-color: lightgrey;
+  border-radius: 25px;
+}
+
+#title {
+  text-align: center;
+}
+
+#img-div {
+  background: white;
+  padding: 10px;
+  margin:0;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  background: red;
+}
+#tribute-link {
+  text-align: center;
+}
+#tribute-quote {
+  text-align: left;
+  font-style: italic;
+  max-width: 545px;
+  margin: 0 auto 50px auto;
+}
+
+#image-quote {
+  text-align: center;
+}
