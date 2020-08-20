@@ -6,7 +6,7 @@ ul {
 }
 
 li {
-  margin:e 16px 0;
+  margin: 16px 0;
 }
 
 
@@ -21,17 +21,20 @@ li {
 
 #img-div {
   background: white;
+  width: 90%;
   padding: 10px;
-  margin:0;
+  margin:0 auto;
 }
 
 #image {
-  max-width: 100%;
+  border-left-width: 50%;
   display: block;
   height: auto;
   margin: 0 auto;
   background: red;
+  padding: 10px;;
 }
+
 #tribute-link {
   text-align: center;
 }
